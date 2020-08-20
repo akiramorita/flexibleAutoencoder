@@ -1,0 +1,10 @@
+.vscode/
+data*/
+*.png
+cl_*/
+ae_*/
+tail_file.log
+*.h5
+*.pyc
+__pycache__/
+setting.txt
